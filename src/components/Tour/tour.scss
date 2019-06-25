@@ -5,10 +5,12 @@ i {
 .tour {
   background: $mainGray;
   margin: 2rem 0;
+  border-radius: 5px;
   img {
     width: 100%;
     display: block;
     min-height: 13rem;
+    border-radius: 5px 0 0 5px;
   }
 }
 

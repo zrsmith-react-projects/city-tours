@@ -4,6 +4,7 @@ $mainBlack: #222;
 $mainGreen: #82b340;
 $mainWhite: #fff;
 $mainGray: #ececec;
+$mainMedGray: silver;
 
 $mainTransition: all 0.3s linear;
 * {
@@ -13,14 +14,14 @@ $mainTransition: all 0.3s linear;
   box-sizing: border-box;
 
   h1 {
-    font-size: 3rem;
+    font-size: 3.4rem;
   }
 
   h2 {
     font-size: 2.5rem;
   }
   h3 {
-    font-size: 2.3rem;
+    font-size: 2.8rem;
   }
   h4 {
     font-size: 2rem;
@@ -35,7 +36,7 @@ $mainTransition: all 0.3s linear;
 
   body {
     font-family: $notoFont;
-    background: $mainWhite;
+    background: $mainMedGray;
     color: $mainBlack;
   }
 }
