@@ -46,5 +46,13 @@ export const tourData = [
     name: "iceland waterfalls tour",
     info:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi"
+  },
+  {
+    id: 7,
+    city: "albuquerque",
+    img: "./img/abq.jpeg",
+    name: "old town tour",
+    info:
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi"
   }
 ];
